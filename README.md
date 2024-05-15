@@ -86,6 +86,6 @@
 
 这里仅做一备份修改自用，感谢原作者：
 
-- https://github.com/chenjinnian/bt_clean
-- https://github.com/DsTansice/bt_clean
-- http://www.cccyun.cc/
+- [http://www.cccyun.cc/](https://blog.cccyun.cn/post-431.html)
+- [https://github.com/chenjinnian/bt_clean](https://github.com/chenjinnian/bt_clean)
+- [https://github.com/DsTansice/bt_clean](https://github.com/DsTansice/bt_clean)
